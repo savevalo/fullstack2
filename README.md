@@ -1,4 +1,4 @@
 # fullstack2
 
 phonebook backend:
-https://fullstack2-phonebook-backend.onrender.com/
+https://phonebook-fullstack-db.onrender.com/
